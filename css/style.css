@@ -1,0 +1,8 @@
+.img-container {
+  background-image: url(./../assets/img/ice-cream-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+}
+
+/*# sourceMappingURL=style.css.map */
